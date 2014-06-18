@@ -1,0 +1,15 @@
+c:\users\alunoct\documents\visual studio 2012\Projects\MathsOperators\MathsOperators\bin\Debug\MathsOperators.exe.config
+c:\users\alunoct\documents\visual studio 2012\Projects\MathsOperators\MathsOperators\obj\Debug\MathsOperators.csprojResolveAssemblyReference.cache
+c:\users\alunoct\documents\visual studio 2012\Projects\MathsOperators\MathsOperators\obj\Debug\MathsOperators.Form1.resources
+c:\users\alunoct\documents\visual studio 2012\Projects\MathsOperators\MathsOperators\obj\Debug\MathsOperators.Properties.Resources.resources
+c:\users\alunoct\documents\visual studio 2012\Projects\MathsOperators\MathsOperators\obj\Debug\MathsOperators.csproj.GenerateResource.Cache
+c:\users\alunoct\documents\visual studio 2012\Projects\MathsOperators\MathsOperators\bin\Debug\MathsOperators.exe
+c:\users\alunoct\documents\visual studio 2012\Projects\MathsOperators\MathsOperators\bin\Debug\MathsOperators.pdb
+c:\users\alunoct\documents\visual studio 2012\Projects\MathsOperators\MathsOperators\obj\Debug\MathsOperators.exe
+c:\users\alunoct\documents\visual studio 2012\Projects\MathsOperators\MathsOperators\obj\Debug\MathsOperators.pdb
+F:\MathsOperators\MathsOperators\bin\Debug\MathsOperators.exe.config
+F:\MathsOperators\MathsOperators\obj\Debug\MathsOperators.exe
+F:\MathsOperators\MathsOperators\obj\Debug\MathsOperators.pdb
+C:\Users\j\Documents\Visual Studio 2012\Projects\MathsOperators\MathsOperators\bin\Debug\MathsOperators.exe.config
+C:\Users\j\Documents\Visual Studio 2012\Projects\MathsOperators\MathsOperators\obj\Debug\MathsOperators.exe
+C:\Users\j\Documents\Visual Studio 2012\Projects\MathsOperators\MathsOperators\obj\Debug\MathsOperators.pdb

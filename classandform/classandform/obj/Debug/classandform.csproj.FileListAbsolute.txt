@@ -1,0 +1,9 @@
+c:\users\j\documents\visual studio 2012\Projects\classandform\classandform\bin\Debug\classandform.exe.config
+c:\users\j\documents\visual studio 2012\Projects\classandform\classandform\obj\Debug\classandform.Form1.resources
+c:\users\j\documents\visual studio 2012\Projects\classandform\classandform\obj\Debug\classandform.Properties.Resources.resources
+c:\users\j\documents\visual studio 2012\Projects\classandform\classandform\obj\Debug\classandform.csproj.GenerateResource.Cache
+c:\users\j\documents\visual studio 2012\Projects\classandform\classandform\bin\Debug\classandform.exe
+c:\users\j\documents\visual studio 2012\Projects\classandform\classandform\bin\Debug\classandform.pdb
+c:\users\j\documents\visual studio 2012\Projects\classandform\classandform\obj\Debug\classandform.exe
+c:\users\j\documents\visual studio 2012\Projects\classandform\classandform\obj\Debug\classandform.pdb
+c:\users\j\documents\visual studio 2012\Projects\classandform\classandform\obj\Debug\classandform.csprojResolveAssemblyReference.cache

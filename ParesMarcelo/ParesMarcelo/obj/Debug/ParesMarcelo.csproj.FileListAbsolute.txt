@@ -1,0 +1,9 @@
+c:\users\j\documents\visual studio 2012\Projects\ParesMarcelo\ParesMarcelo\bin\Debug\ParesMarcelo.exe.config
+c:\users\j\documents\visual studio 2012\Projects\ParesMarcelo\ParesMarcelo\obj\Debug\ParesMarcelo.csprojResolveAssemblyReference.cache
+c:\users\j\documents\visual studio 2012\Projects\ParesMarcelo\ParesMarcelo\obj\Debug\ParesMarcelo.Form1.resources
+c:\users\j\documents\visual studio 2012\Projects\ParesMarcelo\ParesMarcelo\obj\Debug\ParesMarcelo.Properties.Resources.resources
+c:\users\j\documents\visual studio 2012\Projects\ParesMarcelo\ParesMarcelo\obj\Debug\ParesMarcelo.csproj.GenerateResource.Cache
+c:\users\j\documents\visual studio 2012\Projects\ParesMarcelo\ParesMarcelo\bin\Debug\ParesMarcelo.exe
+c:\users\j\documents\visual studio 2012\Projects\ParesMarcelo\ParesMarcelo\bin\Debug\ParesMarcelo.pdb
+c:\users\j\documents\visual studio 2012\Projects\ParesMarcelo\ParesMarcelo\obj\Debug\ParesMarcelo.exe
+c:\users\j\documents\visual studio 2012\Projects\ParesMarcelo\ParesMarcelo\obj\Debug\ParesMarcelo.pdb

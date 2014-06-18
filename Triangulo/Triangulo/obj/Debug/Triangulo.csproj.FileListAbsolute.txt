@@ -1,0 +1,11 @@
+C:\Users\j\Documents\Visual Studio 2012\Projects\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\j\Documents\Visual Studio 2012\Projects\Triangulo\Triangulo\obj\Debug\Triangulo.Form1.resources
+C:\Users\j\Documents\Visual Studio 2012\Projects\Triangulo\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+C:\Users\j\Documents\Visual Studio 2012\Projects\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.Cache
+C:\Users\j\Documents\Visual Studio 2012\Projects\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\j\Documents\Visual Studio 2012\Projects\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\j\Documents\Visual Studio 2012\Projects\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\j\Documents\Visual Studio 2012\Projects\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
+C:\Users\j\Documents\Programation\Visual Studio 2013\Projects\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\j\Documents\Programation\Visual Studio 2013\Projects\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\j\Documents\Programation\Visual Studio 2013\Projects\Triangulo\Triangulo\obj\Debug\Triangulo.pdb

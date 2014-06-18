@@ -1,0 +1,7 @@
+C:\Users\j\Documents\Visual Studio 2012\Projects\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\j\Documents\Visual Studio 2012\Projects\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\j\Documents\Visual Studio 2012\Projects\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\j\Documents\Visual Studio 2012\Projects\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\j\Documents\Visual Studio 2012\Projects\Classes\Classes\obj\Debug\Classes.pdb
+C:\Users\j\Documents\Programation\Repositório\TrabalhosEII\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\j\Documents\Programation\Repositório\TrabalhosEII\Classes\Classes\obj\Debug\Classes.pdb

@@ -1,0 +1,9 @@
+c:\users\j\documents\visual studio 2012\Projects\ExercíciosAlgoritimos\ExercíciosAlgoritimos\bin\Debug\ExercíciosAlgoritimos.exe.config
+c:\users\j\documents\visual studio 2012\Projects\ExercíciosAlgoritimos\ExercíciosAlgoritimos\obj\Debug\ExercíciosAlgoritimos.csprojResolveAssemblyReference.cache
+c:\users\j\documents\visual studio 2012\Projects\ExercíciosAlgoritimos\ExercíciosAlgoritimos\bin\Debug\ExercíciosAlgoritimos.exe
+c:\users\j\documents\visual studio 2012\Projects\ExercíciosAlgoritimos\ExercíciosAlgoritimos\bin\Debug\ExercíciosAlgoritimos.pdb
+c:\users\j\documents\visual studio 2012\Projects\ExercíciosAlgoritimos\ExercíciosAlgoritimos\obj\Debug\ExercíciosAlgoritimos.exe
+c:\users\j\documents\visual studio 2012\Projects\ExercíciosAlgoritimos\ExercíciosAlgoritimos\obj\Debug\ExercíciosAlgoritimos.pdb
+C:\Users\j\Documents\Programation\Repositório\TrabalhosEII\ExercíciosAlgoritimos\ExercíciosAlgoritimos\bin\Debug\ExercíciosAlgoritimos.exe.config
+C:\Users\j\Documents\Programation\Repositório\TrabalhosEII\ExercíciosAlgoritimos\ExercíciosAlgoritimos\obj\Debug\ExercíciosAlgoritimos.exe
+C:\Users\j\Documents\Programation\Repositório\TrabalhosEII\ExercíciosAlgoritimos\ExercíciosAlgoritimos\obj\Debug\ExercíciosAlgoritimos.pdb
