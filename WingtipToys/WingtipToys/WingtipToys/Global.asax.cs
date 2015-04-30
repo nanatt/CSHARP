@@ -19,6 +19,9 @@ namespace WingtipToys
             // Code that runs on application startup
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+            //Initialize the product database
+            Database.SetInitializer(new ProductDatabaseInitializer());
         }
     }
 }

@@ -1,8 +1,11 @@
-﻿using Microsoft.AspNet.Identity;
-using Microsoft.AspNet.Identity.EntityFramework;
-using Microsoft.Owin.Security;
+﻿using System;
+using System.Security.Claims;
+using System.Threading.Tasks;
 using System.Web;
-using System;
+using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.EntityFramework;
+using Microsoft.AspNet.Identity.Owin;
+using Microsoft.Owin.Security;
 using WingtipToys.Models;
 
 namespace WingtipToys.Models
@@ -10,16 +13,28 @@ namespace WingtipToys.Models
     // You can add User data for the user by adding more properties to your User class, please visit http://go.microsoft.com/fwlink/?LinkID=317594 to learn more.
     public class ApplicationUser : IdentityUser
     {
+        public ClaimsIdentity GenerateUserIdentity(ApplicationUserManager manager)
+        {
+            var userIdentity = manager.CreateIdentity(this, DefaultAuthenticationTypes.ApplicationCookie);
+            return userIdentity;
+        }
+        public Task<ClaimsIdentity> GenerateUserIdentityAsync(ApplicationUserManager manager)
+        {
+            return Task.FromResult(GenerateUserIdentity(manager));
+        }
     }
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
-        public ApplicationDbContext()
-            : base("DefaultConnection")
+        public ApplicationDbContext() : base("DefaultConnection", throwIfV1Schema: false)
         {
         }
-    }
 
+        public static ApplicationDbContext Create()
+        {
+            return new ApplicationDbContext();
+        }
+    }
     #region Helpers
     public class UserManager : UserManager<ApplicationUser>
     {
